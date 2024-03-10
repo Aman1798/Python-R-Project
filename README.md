@@ -2,7 +2,10 @@ This GitHub repository is a compilation of my Python/R projects, providing acces
 
 1) StockAPI- Python
 2) IrisPlots- R
-3) PerfectGuess- Python
-4) Snake-Water-Gun- Python
-5) PDF2HTML- Python
-6) ChessBoard- Python
+3) CountryMedals-Python
+4) GraphCreation-Python(NetworkX)
+5) ShoppingCart-Python
+6) PerfectGuess- Python
+7) Snake-Water-Gun- Python
+8) PDF2HTML- Python
+9) ChessBoard- Python
